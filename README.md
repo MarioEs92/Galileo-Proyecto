@@ -8,6 +8,6 @@ Ing. Preng Biba Solares.
 Universidad Galileo.
 ````
 ------
-##### Explicacion de trabajo en este [Enlace](https://drive.google.com/file/d/1S97ypCATIfSVaqDS2UIxUdqk0R0JHlOH/view?usp=drive_link).
+##### Explicacion de trabajo en este [Enlace](https://drive.google.com/file/d/1S97ypCATIfSVaqDS2UIxUdqk0R0JHlOH/view?usp=sharing).
 ------
               
